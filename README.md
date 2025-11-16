@@ -2,6 +2,8 @@
 
 Web-based management interface for Podman secrets with JWT authentication. Built with FastAPI and React.
 
+![PodSec Screenshot](screen.png)
+
 ## Prerequisites
 
 - Podman 4.0+
